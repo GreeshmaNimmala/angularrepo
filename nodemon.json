@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW":"angularauth",
+        "JWT_KEY":"secret"
+    }
+}
